@@ -1,9 +1,9 @@
 #  Cyclistic Bike-Share Case Study
-##  Overview
+### Overview
 
 This project dives into how **casual riders** and **annual members** use Cyclistic bikes differently. The goal is to help Cyclistic grow by turning more casual users into committed annual members. To get there, I followed the six-step data analysis process: **Ask, Prepare, Process, Analyze, Share, and Act**.
 
-##  Business Task
+### Business Task
 > **How do annual members and casual riders use Cyclistic bikes differently?**
 > My task was to uncover insights that could shape a smart marketing strategy to increase annual memberships.
 
