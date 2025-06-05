@@ -5,6 +5,7 @@ This project dives into how **casual riders** and **annual members** use Cyclist
 
 ##  Business Task
 > **How do annual members and casual riders use Cyclistic bikes differently?**
+> 
 > My task was to uncover insights that could shape a smart marketing strategy to increase annual memberships.
 
 ##  Data Source
