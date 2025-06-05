@@ -38,8 +38,8 @@ This project dives into how **casual riders** and **annual members** use Cyclist
 * **Bar chart** of total rides by day of the week
 * **Line chart** showing usage by hour of the day
 * **Stacked bar chart** comparing bike type preferences
-
-##  Marketing Recommendations
+  
+## Recommendations
 
 1. **Leisure Conversion Campaign**
    Casual riders often take longer weekend rides. A targeted campaign could promote how memberships save money on long rides—perfect for tourists and occasional recreational riders.
